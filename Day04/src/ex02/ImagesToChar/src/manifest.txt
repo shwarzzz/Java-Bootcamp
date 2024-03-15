@@ -1,0 +1,2 @@
+class-path: target/
+main-class: edu.school21.printer.app.Program
